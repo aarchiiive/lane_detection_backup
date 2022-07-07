@@ -1,0 +1,1421 @@
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 2.312040328979492s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1378016471862793s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.14172101020812988s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12114572525024414s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12267255783081055s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13091206550598145s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11649894714355469s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12294769287109375s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12381911277770996s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11980295181274414s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12494254112243652s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12910842895507812s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12253165245056152s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11919093132019043s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11948227882385254s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12206339836120605s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12536096572875977s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1270129680633545s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12800955772399902s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12395882606506348s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12706375122070312s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12462544441223145s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12975144386291504s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13663315773010254s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1271049976348877s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12413954734802246s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12506628036499023s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12335801124572754s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12465691566467285s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12093877792358398s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12454414367675781s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1221470832824707s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1259000301361084s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12047839164733887s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12335562705993652s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12536311149597168s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13477706909179688s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.14278817176818848s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13959479331970215s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13115286827087402s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13606953620910645s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13036441802978516s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1324622631072998s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1315169334411621s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13502717018127441s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12819266319274902s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1254889965057373s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13035297393798828s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.126023530960083s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1235659122467041s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1331334114074707s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12821340560913086s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1277635097503662s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12742161750793457s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12909460067749023s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13107967376708984s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12765026092529297s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12504959106445312s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12544846534729004s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12951302528381348s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13065433502197266s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12670278549194336s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12882733345031738s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13847613334655762s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12819623947143555s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1294715404510498s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12847542762756348s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12955617904663086s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1290745735168457s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12656688690185547s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12830138206481934s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13895177841186523s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12329840660095215s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12561750411987305s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1270763874053955s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1294724941253662s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1281583309173584s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1276402473449707s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12370753288269043s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12910676002502441s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12222123146057129s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12865567207336426s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12769222259521484s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1308577060699463s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12667012214660645s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12553143501281738s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12918996810913086s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12810516357421875s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13129711151123047s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.129408597946167s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12998604774475098s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13037896156311035s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12875890731811523s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13594555854797363s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12651419639587402s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12516355514526367s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1321263313293457s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12905597686767578s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12839627265930176s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13035058975219727s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12833571434020996s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12593293190002441s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12598609924316406s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12681317329406738s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1293039321899414s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12926816940307617s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1273031234741211s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13294434547424316s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1298532485961914s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13101840019226074s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12308216094970703s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12614941596984863s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12645316123962402s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12604713439941406s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1256561279296875s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12711572647094727s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12610983848571777s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12364077568054199s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12658190727233887s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12404489517211914s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12443280220031738s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12182974815368652s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1250917911529541s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13002324104309082s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13118839263916016s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13036847114562988s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1276099681854248s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13385248184204102s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13177990913391113s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1292734146118164s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13117694854736328s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12943196296691895s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12832880020141602s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13002848625183105s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12891769409179688s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1302633285522461s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1280210018157959s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12952184677124023s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1282515525817871s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12995076179504395s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12926149368286133s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13063955307006836s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13239002227783203s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13907480239868164s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13416385650634766s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13020014762878418s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13035821914672852s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13088345527648926s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12858080863952637s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12770938873291016s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12642645835876465s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13130593299865723s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12958526611328125s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12871789932250977s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12766003608703613s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1345832347869873s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12860846519470215s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12988591194152832s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12842583656311035s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12738943099975586s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12854886054992676s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13299822807312012s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1268148422241211s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12831401824951172s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1301577091217041s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12912964820861816s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13094711303710938s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13185572624206543s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1271069049835205s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1302332878112793s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13119745254516602s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12935209274291992s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13440537452697754s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1328718662261963s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12660574913024902s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13050270080566406s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1360795497894287s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1321120262145996s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1324918270111084s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13078784942626953s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13266730308532715s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12976360321044922s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12542319297790527s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12816452980041504s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13231253623962402s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13149189949035645s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12943458557128906s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12832903861999512s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13289618492126465s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13052105903625488s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13006353378295898s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.13371968269348145s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12756872177124023s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12619400024414062s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12656593322753906s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12321662902832031s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12741422653198242s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12349247932434082s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12722086906433105s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1252906322479248s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12573719024658203s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12894201278686523s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12702488899230957s
+

@@ -1,0 +1,108 @@
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 1.3979322910308838s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12062692642211914s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11821484565734863s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12155866622924805s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11832952499389648s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12166118621826172s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11955904960632324s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12041664123535156s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.12029480934143066s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11891579627990723s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11806368827819824s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11798524856567383s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11883831024169922s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.11985421180725098s
+
+mean :0.0
+std :0.0
+
+
+Center : 0
+Time : 0.1222224235534668s
+
+mean :0.0
+std :0.0
+
